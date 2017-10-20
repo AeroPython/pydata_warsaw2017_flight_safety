@@ -1,0 +1,20 @@
+name: flight-safety
+channels:
+- damianavila82
+- conda-forge
+- anaconda-fusion
+- defaults
+dependencies:
+- python=3.6
+- bokeh
+- ipython
+- ipywidgets
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- tqdm
+- cartopy
+- rise
